@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77e1c66ba55ccc54da597d88db162d2b, type: 3}
+  m_Name: E5. The Order of The Flaming Paw
+  m_EditorClassIdentifier: 
+  storyText: 'Soon after Boon lighted up the brazier, the tablet cracked open, the
+    four pillars shined brightly and the flame bursted into a beautiful paw figure.
+    Instinctively, Boon touched the blaze and suddenly felt a magic flow through
+    his body. He had gained the power of the paw to jump extremely high.
+
+    
+
+    1.
+    What are you waiting for, let''s jump to the sky.'
+  nextStates:
+  - {fileID: 11400000, guid: 81e18422bef345d4294303fde2e2ed3e, type: 2}

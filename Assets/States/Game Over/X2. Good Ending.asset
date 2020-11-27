@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77e1c66ba55ccc54da597d88db162d2b, type: 3}
+  m_Name: X2. Good Ending
+  m_EditorClassIdentifier: 
+  storyText: 'Boon recognized that the place was going down and quickly escaped through
+    the opening entrance where he first came from. Although Boon had not fully discovered
+    what lay within the room before its collapse, he still had what he came for.
+    With a smile on his face, Boon rode back to his village...
+
+
+    1. The End.'
+  nextStates:
+  - {fileID: 11400000, guid: 29aaa938a28d5674bac4651b91d1a214, type: 2}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77e1c66ba55ccc54da597d88db162d2b, type: 3}
+  m_Name: X1. Bad Ending
+  m_EditorClassIdentifier: 
+  storyText: "Boon suddenly woke up, realizing he had just been through a strange
+    nightmare and was still in one piece. As Boon started to regain consciousness,
+    he saw a figure approaching him. \n\nOh, that was his lovely hostess with a delicious
+    fish on her palm, ready to feed him another meal...\n\n1. The End."
+  nextStates:
+  - {fileID: 11400000, guid: 29aaa938a28d5674bac4651b91d1a214, type: 2}

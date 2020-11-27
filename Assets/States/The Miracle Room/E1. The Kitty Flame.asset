@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77e1c66ba55ccc54da597d88db162d2b, type: 3}
+  m_Name: E1. The Kitty Flame
+  m_EditorClassIdentifier: 
+  storyText: 'OK, now to light up the brazier. With a torch on his hand, a script
+    and the Tablet of Kitty Paw in his bag, Boon started to think about this small
+    puzzle.
+
+    
+
+    1. Light up the brazier.
+
+    2. Read the script Boon carried
+    with him.
+
+    3. Place the Tablet of Kitty Paw on the brazier.'
+  nextStates:
+  - {fileID: 11400000, guid: 8866af74324246149bd0f8fbe66c0181, type: 2}
+  - {fileID: 11400000, guid: 2d10583684e26c749aa5ea399fa18453, type: 2}
+  - {fileID: 11400000, guid: d598c1e236d1a6d4994f8c4f2d062b39, type: 2}

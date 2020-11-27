@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77e1c66ba55ccc54da597d88db162d2b, type: 3}
+  m_Name: C1. Just a... Nightmare
+  m_EditorClassIdentifier: 
+  storyText: "Boon stood there watching the rock above him slowly falling down and...
+    SMASH! Oh no, there was nothing but complete darkness. \r\n\r\n1. Continue."
+  nextStates:
+  - {fileID: 11400000, guid: c3b034c1bc53e8c40ab0ee80e16ad90e, type: 2}

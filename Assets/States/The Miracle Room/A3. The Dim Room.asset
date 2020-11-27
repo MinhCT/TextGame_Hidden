@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77e1c66ba55ccc54da597d88db162d2b, type: 3}
+  m_Name: A3. The Dim Room
+  m_EditorClassIdentifier: 
+  storyText: 'The torch lighted up leisurely, revealing some part of the ceilingless
+    room. Notably, there was a brazier in the center surrounded by 4 stone pillars
+    with markers engraved on them.
+
+    
+
+    1. Continue.'
+  nextStates:
+  - {fileID: 11400000, guid: 518bf779e554f954bbea991a9394e051, type: 2}

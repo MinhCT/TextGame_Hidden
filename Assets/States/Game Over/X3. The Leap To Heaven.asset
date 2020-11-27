@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77e1c66ba55ccc54da597d88db162d2b, type: 3}
+  m_Name: X3. The Leap To Heaven
+  m_EditorClassIdentifier: 
+  storyText: 'With only a soft tiptoe. Boon skyrocketed to the air, reaching the
+    flowing golden throne in a few ticks. Inside the throne lay an ancient artifact
+    called "The Golden Fish", which many meowlogists had looked for for many years.
+    Amazed and proud, Boon picked up the glowly reward: "Oh my Kitty, this fish when
+    casted properly, can grant users unlimited amount of fishes" - he shouted profoundly.
+    Without further delay, Boon headed to his village''s direction, leaped forward
+    and disappeared under the sparkling light of the sun...
+
+
+    1. Hooray!'
+  nextStates:
+  - {fileID: 11400000, guid: 29aaa938a28d5674bac4651b91d1a214, type: 2}
